@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:123c45,100:2563eb&text=Azeddine%20Zaraa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Power%20Systems%20%7C%20Renewable%20Energy&descAlignY=60&descSize=15" width="100%" alt="Azeddine Zaraa profile banner" />
+<img src="https://raw.githubusercontent.com/AzeddineZaraa/AzeddineZaraa/main/bb8aad68-52fd-4352-be39-1a5953aa64ee.png" width="100%" alt="Renewable energy background banner" />
 
 [Portfolio](https://github.com/AzeddineZaraa/Portfolio) · [Digital Twin Project](https://github.com/AzeddineZaraa/Digital-Twin) · [LinkedIn](https://www.linkedin.com/)
 
