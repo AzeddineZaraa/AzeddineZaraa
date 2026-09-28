@@ -1,80 +1,94 @@
-<!-- Profile README for AzeddineZaraa -->
+<!-- Profile README: AzeddineZaraa -->
 
 <div align="center">
 
-# Azeddine Zaraa
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:123c45,100:2563eb&text=Azeddine%20Zaraa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Power%20Systems%20%7C%20Renewable%20Energy&descAlignY=60&descSize=15" width="100%" alt="Azeddine Zaraa profile banner" />
 
-**Electrical Engineering Student | Power Systems | Renewable Energy**
-
-Mohammedia, Morocco
-
-[Portfolio](https://github.com/AzeddineZaraa/Portfolio) · [GitHub](https://github.com/AzeddineZaraa)
+[Portfolio](https://github.com/AzeddineZaraa/Portfolio) · [Digital Twin Project](https://github.com/AzeddineZaraa/Digital-Twin) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
 
----
+## Profile
 
-## About
+Final-year engineering student in Electrical Engineering and Renewable Energy at ENSET Mohammedia, Morocco. Interested in power systems, electrical design, photovoltaic systems, industrial automation, and simulation.
 
-Final-year engineering student in Electrical Engineering and Renewable Energy at ENSET Mohammedia, interested in power systems, industrial automation, photovoltaic systems, and electrical design.
+I use engineering software and programming to model, analyze, and develop practical energy and industrial solutions.
 
-My work combines electrical engineering, simulation, and programming to study and develop practical energy solutions.
+## Focus Areas
 
-## Areas of Interest
-
-- Power systems analysis and protection coordination
-- Renewable energy and photovoltaic systems
-- Power converters, MPPT, and control systems
-- Industrial automation and PLC programming
-- Modeling, simulation, and digital twins
+<p>
+  <img src="https://img.shields.io/badge/Power_Systems-123c45?style=for-the-badge&logo= ವಿದ್ಯ&logoColor=white" alt="Power Systems" />
+  <img src="https://img.shields.io/badge/Renewable_Energy-176b4d?style=for-the-badge&logo=solarpower&logoColor=white" alt="Renewable Energy" />
+  <img src="https://img.shields.io/badge/Automation-234a8b?style=for-the-badge&logo=siemens&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Simulation-49358c?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulation" />
+</p>
 
 ## Technical Skills
 
-| Category | Tools and Technologies |
+| Area | Tools |
 |---|---|
 | Modeling and simulation | MATLAB, Simulink, PSIM |
 | Power systems | ETAP, Caneco BT |
 | Solar energy | PVsyst |
-| Automation | Siemens TIA Portal, STEP 7, WinCC, FluidSIM |
+| Industrial automation | Siemens TIA Portal, STEP 7, WinCC, FluidSIM |
 | Programming | Python |
 | Electrical design | AutoCAD, DIALux, Proteus |
 
-## Selected Projects
+## Featured Projects
 
-### Photovoltaic Digital Twin
-Modeling and simulation of a photovoltaic installation, including MPPT control and power conversion.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AzeddineZaraa/Digital-Twin">Photovoltaic Digital Twin</a></h3>
+      Modeling and simulation of a photovoltaic installation, including MPPT control and power conversion.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MATLAB-Simulation-orange?style=flat-square" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/Photovoltaic-Energy-238636?style=flat-square" alt="Photovoltaic" />
+    </td>
+    <td width="50%">
+      <h3>Electrical Protection Coordination</h3>
+      Study and coordination of electrical installation protections using ETAP.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ETAP-Power_Systems-2563eb?style=flat-square" alt="ETAP" />
+      <img src="https://img.shields.io/badge/Protection-Coordination-64748b?style=flat-square" alt="Protection coordination" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Solar Pumping System</h3>
+      Sizing and study of a solar-powered pumping system.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PVsyst-Solar-238636?style=flat-square" alt="PVsyst" />
+    </td>
+    <td width="50%">
+      <h3>Industrial Automation</h3>
+      Design of a bottle-filling machine using GRAFCET, STEP 7, and FluidSIM.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STEP_7-PLC-2563eb?style=flat-square" alt="STEP 7" />
+      <img src="https://img.shields.io/badge/FluidSIM-Automation-64748b?style=flat-square" alt="FluidSIM" />
+    </td>
+  </tr>
+</table>
 
-[View repository](https://github.com/AzeddineZaraa/Digital-Twin)
-
-### Electrical Protection Coordination
-Study and coordination of electrical installation protections using ETAP.
-
-### Solar Pumping System
-Sizing and study of a solar-powered pumping system.
-
-### Industrial Automation
-Design of a bottle-filling machine using GRAFCET, STEP 7, and FluidSIM.
-
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzeddineZaraa&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzeddineZaraa&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=AzeddineZaraa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzeddineZaraa&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzeddineZaraa&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Most used languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AzeddineZaraa&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub contribution streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzeddineZaraa&bg_color=0d1117&color=9be9a8&line=2ea043&point=58a6ff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </div>
 
 ## Connect
 
 - GitHub: [@AzeddineZaraa](https://github.com/AzeddineZaraa)
 - Portfolio: [Portfolio repository](https://github.com/AzeddineZaraa/Portfolio)
+- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
 
 ---
 
 <div align="center">
-
-*Engineering, energy, and continuous learning.*
-
+  <sub>Electrical Engineering · Energy · Automation · Simulation</sub>
 </div>
