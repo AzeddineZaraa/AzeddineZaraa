@@ -17,7 +17,7 @@ I use engineering software and programming to model, analyze, and develop practi
 ## Focus Areas
 
 <p>
-  <img src="https://img.shields.io/badge/Power_Systems-123c45?style=for-the-badge&logo= ವಿದ್ಯ&logoColor=white" alt="Power Systems" />
+  <img src="https://img.shields.io/badge/Power_Systems-123c45?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Systems" />
   <img src="https://img.shields.io/badge/Renewable_Energy-176b4d?style=for-the-badge&logo=solarpower&logoColor=white" alt="Renewable Energy" />
   <img src="https://img.shields.io/badge/Automation-234a8b?style=for-the-badge&logo=siemens&logoColor=white" alt="Automation" />
   <img src="https://img.shields.io/badge/Simulation-49358c?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulation" />
@@ -85,7 +85,7 @@ I use engineering software and programming to model, analyze, and develop practi
 
 - GitHub: [@AzeddineZaraa](https://github.com/AzeddineZaraa)
 - Portfolio: [Portfolio repository](https://github.com/AzeddineZaraa/Portfolio)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- LinkedIn: Add your LinkedIn profile URL
 
 ---
 
